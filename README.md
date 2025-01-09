@@ -42,6 +42,4 @@ This project focuses on analyzing trends in the United States' publicly held deb
 ## Acknowledgments
 Special thanks to publicly available US debt datasets for enabling this analysis.
 
----
 
-Feel free to modify this README as needed for your specific project setup!
